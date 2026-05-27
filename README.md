@@ -72,7 +72,7 @@ Language. **Use  Python 3.10**
 
 ---
 
-## 👨‍💻 Team – Crew 8 Bits
+## 👨‍💻 SEM IV : TY B.SC DATA SCIENCE 
 
 - Mr. Harsh Mhatre 
 
